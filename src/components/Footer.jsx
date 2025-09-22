@@ -27,7 +27,7 @@ const Footer = () => {
                             and spiritual solutions.
                         </p>
                         <h4 className="mt-4 font-semibold text-red-300">
-                            Stay in Touch with us
+                            અમારા સંપર્કમાં રહો
                         </h4>
                         <div className="flex justify-center md:justify-start mt-2 space-x-4">
                             <a href="#" className="text-white hover:text-red-300">
