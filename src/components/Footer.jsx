@@ -45,14 +45,14 @@ const Footer = () => {
                     <div>
                         <h3 className="font-semibold mb-3 text-red-300">Quick Links</h3>
                         <ul className="space-y-2 text-gray-200 text-sm">
-                            <a href="/"><li className="hover:text-red-400 cursor-pointer">Home</li></a>
-                            <a href="/"><li className="hover:text-red-400 cursor-pointer">About Us</li></a>
-                            <a href="/"><li className="hover:text-red-400 cursor-pointer">Recipes</li></a>
-                            <a href="/"><li className="hover:text-red-400 cursor-pointer">Authors</li></a>
-                            <a href="/"><li className="hover:text-red-400 cursor-pointer">Videos</li></a>
-                            <a href="/"><li className="hover:text-red-400 cursor-pointer">Testimonials</li></a>
-                            <a href="/"><li className="hover:text-red-400 cursor-pointer">Workshops / Events</li></a>
-                            <a href="/"><li className="hover:text-red-400 cursor-pointer">Contact</li></a>
+                            <a href="/"><li className="hover:text-red-400 cursor-pointer">હોમ</li></a>
+                            <a href="/about"><li className="hover:text-red-400 cursor-pointer">અમારા વિશે</li></a>
+                            <a href="/recipes"><li className="hover:text-red-400 cursor-pointer">રેસીપિસ</li></a>
+                            <a href="/authors"><li className="hover:text-red-400 cursor-pointer">લેખકો</li></a>
+                            <a href="/videos"><li className="hover:text-red-400 cursor-pointer">વિડિઓઝ</li></a>
+                            <a href="/testimonials"><li className="hover:text-red-400 cursor-pointer">ટેસ્ટીમોનીઅલસ</li></a>
+                            <a href="/workshop"><li className="hover:text-red-400 cursor-pointer">વર્કશોપ</li></a>
+                            <a href="/contact"><li className="hover:text-red-400 cursor-pointer">કોનટેક્ટ</li></a>
                         </ul>
                     </div>
 
